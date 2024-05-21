@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MiguelAraneda/festival/issues"
   },
-  "homepage": "https://github.com/MiguelAraneda/festival#readme"
+  "homepage": "https://github.com/MiguelAraneda/festival#readme",
+  "devDependencies": {
+    "sass": "^1.77.2"
+  }
 }
