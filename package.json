@@ -6,7 +6,9 @@
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch src/scss:dist/css",
-    "hola": "gulp hola"
+    "hola": "gulp hola",
+    "css": "gulp css"
+    
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,7 @@
   "homepage": "https://github.com/MiguelAraneda/festival#readme",
   "devDependencies": {
     "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
     "sass": "^1.77.2"
   }
 }
